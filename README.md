@@ -20,14 +20,14 @@
 ### 安装
 
 ```bash
-go get github.com/your-username/go-https-proxy
+go get github.com/chenyu1990/go-web-debug-proxy
 ```
 
 或直接下载编译：
 
 ```bash
-git clone https://github.com/your-username/go-https-proxy.git
-cd go-https-proxy
+git clone https://github.com/chenyu1990/go-web-debug-proxy.git
+cd go-web-debug-proxy
 go build -o proxy
 ```
 
